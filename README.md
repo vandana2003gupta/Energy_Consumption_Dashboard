@@ -1,18 +1,4 @@
-## Table Definition
-create or replace TABLE TABLEAU.TABLEAU_DATA.TABLEAU_DATASET (
-	HOUSEHOLD_ID VARCHAR(16777216),
-	REGION VARCHAR(16777216),
-	COUNTRY VARCHAR(16777216),
-	ENERGY_SOURCE VARCHAR(16777216),
-	MONTHLY_USAGE_KWH FLOAT,
-	YEAR NUMBER(38,0),
-	HOUSEHOLD_SIZE NUMBER(38,0),
-	INCOME_LEVEL VARCHAR(16777216),
-	URBAN_RURAL VARCHAR(16777216),
-	ADOPTION_YEAR NUMBER(38,0),
-	SUBSIDY_RECEIVED VARCHAR(16777216),
-	COST_SAVINGS_USD FLOAT
-);
+<img width="681" height="423" alt="image" src="https://github.com/user-attachments/assets/e49c82f2-2732-46c2-ad69-aa3c0d144e28" />
 
 
 <img width="1342" height="967" alt="image" src="https://github.com/user-attachments/assets/efc54043-0382-438f-bb53-be5850efd4f5" />
